@@ -1,0 +1,3278 @@
+[
+    {
+        "id": "123001",
+        "dateScheduled": "1 Jan",
+        "book": "Genesis",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123002",
+        "dateScheduled": "2 Jan",
+        "book": "Genesis",
+        "startChapter": "4",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123003",
+        "dateScheduled": "3 Jan",
+        "book": "Genesis",
+        "startChapter": "8",
+        "endChapter": "11",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123004",
+        "dateScheduled": "4 Jan",
+        "book": "Genesis",
+        "startChapter": "12",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123005",
+        "dateScheduled": "5 Jan",
+        "book": "Genesis",
+        "startChapter": "16",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123006",
+        "dateScheduled": "6 Jan",
+        "book": "Genesis",
+        "startChapter": "19",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123007",
+        "dateScheduled": "7 Jan",
+        "book": "Genesis",
+        "startChapter": "23",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123008",
+        "dateScheduled": "8 Jan",
+        "book": "Genesis",
+        "startChapter": "25",
+        "endChapter": "27",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123009",
+        "dateScheduled": "9 Jan",
+        "book": "Genesis",
+        "startChapter": "28",
+        "endChapter": "30",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123010",
+        "dateScheduled": "10 Jan",
+        "book": "Genesis",
+        "startChapter": "31",
+        "endChapter": "32",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123011",
+        "dateScheduled": "11 Jan",
+        "book": "Genesis",
+        "startChapter": "33",
+        "endChapter": "34",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123012",
+        "dateScheduled": "12 Jan",
+        "book": "Genesis",
+        "startChapter": "35",
+        "endChapter": "37",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123013",
+        "dateScheduled": "13 Jan",
+        "book": "Genesis",
+        "startChapter": "38",
+        "endChapter": "40",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123014",
+        "dateScheduled": "14 Jan",
+        "book": "Genesis",
+        "startChapter": "41",
+        "endChapter": "42",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123015",
+        "dateScheduled": "15 Jan",
+        "book": "Genesis",
+        "startChapter": "42",
+        "endChapter": "45",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123016",
+        "dateScheduled": "16 Jan",
+        "book": "Genesis",
+        "startChapter": "46",
+        "endChapter": "48",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123017",
+        "dateScheduled": "17 Jan",
+        "book": "Genesis",
+        "startChapter": "49",
+        "endChapter": "50",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123018",
+        "dateScheduled": "18 Jan",
+        "book": "Exodus",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123019",
+        "dateScheduled": "19 Jan",
+        "book": "Exodus",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123020",
+        "dateScheduled": "20 Jan",
+        "book": "Exodus",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123021",
+        "dateScheduled": "21 Jan",
+        "book": "Exodus",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123022",
+        "dateScheduled": "22 Jan",
+        "book": "Exodus",
+        "startChapter": "14",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123023",
+        "dateScheduled": "23 Jan",
+        "book": "Exodus",
+        "startChapter": "16",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123024",
+        "dateScheduled": "24 Jan",
+        "book": "Exodus",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123025",
+        "dateScheduled": "25 Jan",
+        "book": "Exodus",
+        "startChapter": "22",
+        "endChapter": "25",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123026",
+        "dateScheduled": "26 Jan",
+        "book": "Exodus",
+        "startChapter": "26",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123027",
+        "dateScheduled": "27 Jan",
+        "book": "Exodus",
+        "startChapter": "29",
+        "endChapter": "30",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123028",
+        "dateScheduled": "28 Jan",
+        "book": "Exodus",
+        "startChapter": "31",
+        "endChapter": "33",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123029",
+        "dateScheduled": "29 Jan",
+        "book": "Exodus",
+        "startChapter": "34",
+        "endChapter": "35",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123030",
+        "dateScheduled": "30 Jan",
+        "book": "Exodus",
+        "startChapter": "36",
+        "endChapter": "38",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123031",
+        "dateScheduled": "31 Jan",
+        "book": "Exodus",
+        "startChapter": "39",
+        "endChapter": "40",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123032",
+        "dateScheduled": "1 Feb",
+        "book": "Leviticus",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123033",
+        "dateScheduled": "2 Feb",
+        "book": "Leviticus",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123034",
+        "dateScheduled": "3 Feb",
+        "book": "Leviticus",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123035",
+        "dateScheduled": "4 Feb",
+        "book": "Leviticus",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123036",
+        "dateScheduled": "5 Feb",
+        "book": "Leviticus",
+        "startChapter": "14",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123037",
+        "dateScheduled": "6 Feb",
+        "book": "Leviticus",
+        "startChapter": "16",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123038",
+        "dateScheduled": "7 Feb",
+        "book": "Leviticus",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123039",
+        "dateScheduled": "8 Feb",
+        "book": "Leviticus",
+        "startChapter": "22",
+        "endChapter": "23",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123040",
+        "dateScheduled": "9 Feb",
+        "book": "Leviticus",
+        "startChapter": "24",
+        "endChapter": "25",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123041",
+        "dateScheduled": "10 Feb",
+        "book": "Leviticus",
+        "startChapter": "26",
+        "endChapter": "27",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123042",
+        "dateScheduled": "11 Feb",
+        "book": "Numbers",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123043",
+        "dateScheduled": "12 Feb",
+        "book": "Numbers",
+        "startChapter": "4",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123044",
+        "dateScheduled": "13 Feb",
+        "book": "Numbers",
+        "startChapter": "7",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123045",
+        "dateScheduled": "14 Feb",
+        "book": "Numbers",
+        "startChapter": "10",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123046",
+        "dateScheduled": "15 Feb",
+        "book": "Numbers",
+        "startChapter": "13",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123047",
+        "dateScheduled": "16 Feb",
+        "book": "Numbers",
+        "startChapter": "16",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123048",
+        "dateScheduled": "17 Feb",
+        "book": "Numbers",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123049",
+        "dateScheduled": "18 Feb",
+        "book": "Numbers",
+        "startChapter": "22",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123050",
+        "dateScheduled": "19 Feb",
+        "book": "Numbers",
+        "startChapter": "25",
+        "endChapter": "27",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123051",
+        "dateScheduled": "20 Feb",
+        "book": "Numbers",
+        "startChapter": "28",
+        "endChapter": "30",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123052",
+        "dateScheduled": "21 Feb",
+        "book": "Numbers",
+        "startChapter": "31",
+        "endChapter": "32",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123053",
+        "dateScheduled": "22 Feb",
+        "book": "Numbers",
+        "startChapter": "33",
+        "endChapter": "36",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123054",
+        "dateScheduled": "23 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123055",
+        "dateScheduled": "24 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "3",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123056",
+        "dateScheduled": "25 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123057",
+        "dateScheduled": "26 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123058",
+        "dateScheduled": "27 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123059",
+        "dateScheduled": "28 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "14",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123060",
+        "dateScheduled": "29 Feb",
+        "book": "Deuteronomy",
+        "startChapter": "17",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123061",
+        "dateScheduled": "1 Mar",
+        "book": "Deuteronomy",
+        "startChapter": "20",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123062",
+        "dateScheduled": "2 Mar",
+        "book": "Deuteronomy",
+        "startChapter": "23",
+        "endChapter": "26",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123063",
+        "dateScheduled": "3 Mar",
+        "book": "Deuteronomy",
+        "startChapter": "27",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123064",
+        "dateScheduled": "4 Mar",
+        "book": "Deuteronomy",
+        "startChapter": "29",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123065",
+        "dateScheduled": "5 Mar",
+        "book": "Deuteronomy",
+        "startChapter": "32",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123066",
+        "dateScheduled": "6 Mar",
+        "book": "Deuteronomy",
+        "startChapter": "33",
+        "endChapter": "34",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123067",
+        "dateScheduled": "7 Mar",
+        "book": "Joshua",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123068",
+        "dateScheduled": "8 Mar",
+        "book": "Joshua",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123069",
+        "dateScheduled": "9 Mar",
+        "book": "Joshua",
+        "startChapter": "8",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123070",
+        "dateScheduled": "10 Mar",
+        "book": "Joshua",
+        "startChapter": "10",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123071",
+        "dateScheduled": "11 Mar",
+        "book": "Joshua",
+        "startChapter": "13",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123072",
+        "dateScheduled": "12 Mar",
+        "book": "Joshua",
+        "startChapter": "16",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123073",
+        "dateScheduled": "13 Mar",
+        "book": "Joshua",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123074",
+        "dateScheduled": "14 Mar",
+        "book": "Joshua",
+        "startChapter": "22",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123075",
+        "dateScheduled": "15 Mar",
+        "book": "Judges",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123076",
+        "dateScheduled": "16 Mar",
+        "book": "Judges",
+        "startChapter": "3",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123077",
+        "dateScheduled": "17 Mar",
+        "book": "Judges",
+        "startChapter": "6",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123078",
+        "dateScheduled": "18 Mar",
+        "book": "Judges",
+        "startChapter": "8",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123079",
+        "dateScheduled": "19 Mar",
+        "book": "Judges",
+        "startChapter": "10",
+        "endChapter": "11",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123080",
+        "dateScheduled": "20 Mar",
+        "book": "Judges",
+        "startChapter": "12",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123081",
+        "dateScheduled": "21 Mar",
+        "book": "Judges",
+        "startChapter": "14",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123082",
+        "dateScheduled": "22 Mar",
+        "book": "Judges",
+        "startChapter": "17",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123083",
+        "dateScheduled": "23 Mar",
+        "book": "Judges",
+        "startChapter": "20",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123084",
+        "dateScheduled": "24 Mar",
+        "book": "Ruth",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#99aaff"
+    },
+    {
+        "id": "123085",
+        "dateScheduled": "25 Mar",
+        "book": "1 Samuel",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123086",
+        "dateScheduled": "26 Mar",
+        "book": "1 Samuel",
+        "startChapter": "3",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123087",
+        "dateScheduled": "27 Mar",
+        "book": "1 Samuel",
+        "startChapter": "7",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123088",
+        "dateScheduled": "28 Mar",
+        "book": "1 Samuel",
+        "startChapter": "10",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123089",
+        "dateScheduled": "29 Mar",
+        "book": "1 Samuel",
+        "startChapter": "13",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123090",
+        "dateScheduled": "30 Mar",
+        "book": "1 Samuel",
+        "startChapter": "15",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123091",
+        "dateScheduled": "31 Mar",
+        "book": "1 Samuel",
+        "startChapter": "17",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123092",
+        "dateScheduled": "1 Apr",
+        "book": "1 Samuel",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123093",
+        "dateScheduled": "2 Apr",
+        "book": "1 Samuel",
+        "startChapter": "22",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123094",
+        "dateScheduled": "3 Apr",
+        "book": "1 Samuel",
+        "startChapter": "25",
+        "endChapter": "27",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123095",
+        "dateScheduled": "4 Apr",
+        "book": "1 Samuel",
+        "startChapter": "28",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123096",
+        "dateScheduled": "5 Apr",
+        "book": "2 Samuel",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123097",
+        "dateScheduled": "6 Apr",
+        "book": "2 Samuel",
+        "startChapter": "3",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123098",
+        "dateScheduled": "7 Apr",
+        "book": "2 Samuel",
+        "startChapter": "6",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123099",
+        "dateScheduled": "8 Apr",
+        "book": "2 Samuel",
+        "startChapter": "9",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123100",
+        "dateScheduled": "9 Apr",
+        "book": "2 Samuel",
+        "startChapter": "13",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123101",
+        "dateScheduled": "10 Apr",
+        "book": "2 Samuel",
+        "startChapter": "15",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123102",
+        "dateScheduled": "11 Apr",
+        "book": "2 Samuel",
+        "startChapter": "17",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123103",
+        "dateScheduled": "12 Apr",
+        "book": "2 Samuel",
+        "startChapter": "19",
+        "endChapter": "20",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123104",
+        "dateScheduled": "13 Apr",
+        "book": "2 Samuel",
+        "startChapter": "21",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123105",
+        "dateScheduled": "14 Apr",
+        "book": "2 Samuel",
+        "startChapter": "23",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123106",
+        "dateScheduled": "15 Apr",
+        "book": "1 Kings",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123107",
+        "dateScheduled": "16 Apr",
+        "book": "1 Kings",
+        "startChapter": "3",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123108",
+        "dateScheduled": "17 Apr",
+        "book": "1 Kings",
+        "startChapter": "6",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123109",
+        "dateScheduled": "18 Apr",
+        "book": "1 Kings",
+        "startChapter": "8",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123110",
+        "dateScheduled": "19 Apr",
+        "book": "1 Kings",
+        "startChapter": "9",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123111",
+        "dateScheduled": "20 Apr",
+        "book": "1 Kings",
+        "startChapter": "11",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123112",
+        "dateScheduled": "21 Apr",
+        "book": "1 Kings",
+        "startChapter": "13",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123113",
+        "dateScheduled": "22 Apr",
+        "book": "1 Kings",
+        "startChapter": "15",
+        "endChapter": "17",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123114",
+        "dateScheduled": "23 Apr",
+        "book": "1 Kings",
+        "startChapter": "18",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123115",
+        "dateScheduled": "24 Apr",
+        "book": "1 Kings",
+        "startChapter": "20",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123116",
+        "dateScheduled": "25 Apr",
+        "book": "1 Kings",
+        "startChapter": "22",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123117",
+        "dateScheduled": "26 Apr",
+        "book": "2 Kings",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123118",
+        "dateScheduled": "27 Apr",
+        "book": "2 Kings",
+        "startChapter": "4",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123119",
+        "dateScheduled": "28 Apr",
+        "book": "2 Kings",
+        "startChapter": "6",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123120",
+        "dateScheduled": "29 Apr",
+        "book": "2 Kings",
+        "startChapter": "9",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123121",
+        "dateScheduled": "30 Apr",
+        "book": "2 Kings",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123122",
+        "dateScheduled": "1 May",
+        "book": "2 Kings",
+        "startChapter": "14",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123123",
+        "dateScheduled": "2 May",
+        "book": "2 Kings",
+        "startChapter": "16",
+        "endChapter": "17",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123124",
+        "dateScheduled": "3 May",
+        "book": "2 Kings",
+        "startChapter": "18",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123125",
+        "dateScheduled": "4 May",
+        "book": "2 Kings",
+        "startChapter": "20",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123126",
+        "dateScheduled": "5 May",
+        "book": "2 Kings",
+        "startChapter": "23",
+        "endChapter": "25",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123127",
+        "dateScheduled": "6 May",
+        "book": "1 Chronicles",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123128",
+        "dateScheduled": "7 May",
+        "book": "1 Chronicles",
+        "startChapter": "3",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123129",
+        "dateScheduled": "8 May",
+        "book": "1 Chronicles",
+        "startChapter": "6",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123130",
+        "dateScheduled": "9 May",
+        "book": "1 Chronicles",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123131",
+        "dateScheduled": "10 May",
+        "book": "1 Chronicles",
+        "startChapter": "11",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123132",
+        "dateScheduled": "11 May",
+        "book": "1 Chronicles",
+        "startChapter": "13",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123133",
+        "dateScheduled": "12 May",
+        "book": "1 Chronicles",
+        "startChapter": "16",
+        "endChapter": "17",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123134",
+        "dateScheduled": "13 May",
+        "book": "1 Chronicles",
+        "startChapter": "18",
+        "endChapter": "20",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123135",
+        "dateScheduled": "14 May",
+        "book": "1 Chronicles",
+        "startChapter": "21",
+        "endChapter": "23",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123136",
+        "dateScheduled": "15 May",
+        "book": "1 Chronicles",
+        "startChapter": "24",
+        "endChapter": "26",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123137",
+        "dateScheduled": "16 May",
+        "book": "1 Chronicles",
+        "startChapter": "27",
+        "endChapter": "29",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123138",
+        "dateScheduled": "17 May",
+        "book": "2 Chronicles",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123139",
+        "dateScheduled": "18 May",
+        "book": "2 Chronicles",
+        "startChapter": "4",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123140",
+        "dateScheduled": "19 May",
+        "book": "2 Chronicles",
+        "startChapter": "7",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123141",
+        "dateScheduled": "20 May",
+        "book": "2 Chronicles",
+        "startChapter": "10",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123142",
+        "dateScheduled": "21 May",
+        "book": "2 Chronicles",
+        "startChapter": "15",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123143",
+        "dateScheduled": "22 May",
+        "book": "2 Chronicles",
+        "startChapter": "19",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123144",
+        "dateScheduled": "23 May",
+        "book": "2 Chronicles",
+        "startChapter": "23",
+        "endChapter": "25",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123145",
+        "dateScheduled": "24 May",
+        "book": "2 Chronicles",
+        "startChapter": "26",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123146",
+        "dateScheduled": "25 May",
+        "book": "2 Chronicles",
+        "startChapter": "29",
+        "endChapter": "30",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123147",
+        "dateScheduled": "26 May",
+        "book": "2 Chronicles",
+        "startChapter": "31",
+        "endChapter": "33",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123148",
+        "dateScheduled": "27 May",
+        "book": "2 Chronicles",
+        "startChapter": "34",
+        "endChapter": "36",
+        "dateCompleted": "",
+        "color": "#ffccaa"
+    },
+    {
+        "id": "123149",
+        "dateScheduled": "28 May",
+        "book": "Ezra",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123150",
+        "dateScheduled": "29 May",
+        "book": "Ezra",
+        "startChapter": "4",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123151",
+        "dateScheduled": "30 May",
+        "book": "Ezra",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123152",
+        "dateScheduled": "31 May",
+        "book": "Nehemiah",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123153",
+        "dateScheduled": "1 Jun",
+        "book": "Nehemiah",
+        "startChapter": "4",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123154",
+        "dateScheduled": "2 Jun",
+        "book": "Nehemiah",
+        "startChapter": "7",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123155",
+        "dateScheduled": "3 Jun",
+        "book": "Nehemiah",
+        "startChapter": "9",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123156",
+        "dateScheduled": "4 Jun",
+        "book": "Nehemiah",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123157",
+        "dateScheduled": "5 Jun",
+        "book": "Esther",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123158",
+        "dateScheduled": "6 Jun",
+        "book": "Esther",
+        "startChapter": "5",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#bbccee"
+    },
+    {
+        "id": "123159",
+        "dateScheduled": "7 Jun",
+        "book": "Job",
+        "startChapter": "1",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123160",
+        "dateScheduled": "8 Jun",
+        "book": "Job",
+        "startChapter": "6",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123161",
+        "dateScheduled": "9 Jun",
+        "book": "Job",
+        "startChapter": "10",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123162",
+        "dateScheduled": "10 Jun",
+        "book": "Job",
+        "startChapter": "15",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123163",
+        "dateScheduled": "11 Jun",
+        "book": "Job",
+        "startChapter": "19",
+        "endChapter": "20",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123164",
+        "dateScheduled": "12 Jun",
+        "book": "Job",
+        "startChapter": "21",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123165",
+        "dateScheduled": "13 Jun",
+        "book": "Job",
+        "startChapter": "25",
+        "endChapter": "29",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123166",
+        "dateScheduled": "14 Jun",
+        "book": "Job",
+        "startChapter": "30",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123167",
+        "dateScheduled": "15 Jun",
+        "book": "Job",
+        "startChapter": "32",
+        "endChapter": "34",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123168",
+        "dateScheduled": "16 Jun",
+        "book": "Job",
+        "startChapter": "35",
+        "endChapter": "38",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123169",
+        "dateScheduled": "17 Jun",
+        "book": "Job",
+        "startChapter": "39",
+        "endChapter": "42",
+        "dateCompleted": "",
+        "color": "#ddffdd"
+    },
+    {
+        "id": "123170",
+        "dateScheduled": "18 Jun",
+        "book": "Psalms",
+        "startChapter": "1",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123171",
+        "dateScheduled": "19 Jun",
+        "book": "Psalms",
+        "startChapter": "9",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123172",
+        "dateScheduled": "20 Jun",
+        "book": "Psalms",
+        "startChapter": "17",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123173",
+        "dateScheduled": "21 Jun",
+        "book": "Psalms",
+        "startChapter": "20",
+        "endChapter": "25",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123174",
+        "dateScheduled": "22 Jun",
+        "book": "Psalms",
+        "startChapter": "26",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123175",
+        "dateScheduled": "23 Jun",
+        "book": "Psalms",
+        "startChapter": "32",
+        "endChapter": "35",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123176",
+        "dateScheduled": "24 Jun",
+        "book": "Psalms",
+        "startChapter": "36",
+        "endChapter": "38",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123177",
+        "dateScheduled": "25 Jun",
+        "book": "Psalms",
+        "startChapter": "39",
+        "endChapter": "42",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123178",
+        "dateScheduled": "26 Jun",
+        "book": "Psalms",
+        "startChapter": "43",
+        "endChapter": "47",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123179",
+        "dateScheduled": "27 Jun",
+        "book": "Psalms",
+        "startChapter": "48",
+        "endChapter": "52",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123180",
+        "dateScheduled": "28 Jun",
+        "book": "Psalms",
+        "startChapter": "53",
+        "endChapter": "58",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123181",
+        "dateScheduled": "29 Jun",
+        "book": "Psalms",
+        "startChapter": "59",
+        "endChapter": "64",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123182",
+        "dateScheduled": "30 Jun",
+        "book": "Psalms",
+        "startChapter": "65",
+        "endChapter": "68",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123183",
+        "dateScheduled": "1 Jul",
+        "book": "Psalms",
+        "startChapter": "69",
+        "endChapter": "72",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123184",
+        "dateScheduled": "2 Jul",
+        "book": "Psalms",
+        "startChapter": "73",
+        "endChapter": "77",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123185",
+        "dateScheduled": "3 Jul",
+        "book": "Psalms",
+        "startChapter": "78",
+        "endChapter": "79",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123186",
+        "dateScheduled": "4 Jul",
+        "book": "Psalms",
+        "startChapter": "80",
+        "endChapter": "86",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123187",
+        "dateScheduled": "5 Jul",
+        "book": "Psalms",
+        "startChapter": "87",
+        "endChapter": "90",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123188",
+        "dateScheduled": "6 Jul",
+        "book": "Psalms",
+        "startChapter": "91",
+        "endChapter": "96",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123189",
+        "dateScheduled": "7 Jul",
+        "book": "Psalms",
+        "startChapter": "97",
+        "endChapter": "103",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123190",
+        "dateScheduled": "8 Jul",
+        "book": "Psalms",
+        "startChapter": "104",
+        "endChapter": "105",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123191",
+        "dateScheduled": "9 Jul",
+        "book": "Psalms",
+        "startChapter": "106",
+        "endChapter": "108",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123192",
+        "dateScheduled": "10 Jul",
+        "book": "Psalms",
+        "startChapter": "109",
+        "endChapter": "115",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123193",
+        "dateScheduled": "11 Jul",
+        "book": "Psalms",
+        "startChapter": "116",
+        "endChapter": "119:63",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123194",
+        "dateScheduled": "12 Jul",
+        "book": "Psalms",
+        "startChapter": "119:64",
+        "endChapter": "119:176",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123195",
+        "dateScheduled": "13 Jul",
+        "book": "Psalms",
+        "startChapter": "120",
+        "endChapter": "129",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123196",
+        "dateScheduled": "14 Jul",
+        "book": "Psalms",
+        "startChapter": "130",
+        "endChapter": "138",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123197",
+        "dateScheduled": "15 Jul",
+        "book": "Psalms",
+        "startChapter": "139",
+        "endChapter": "144",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123198",
+        "dateScheduled": "16 Jul",
+        "book": "Psalms",
+        "startChapter": "145",
+        "endChapter": "150",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123199",
+        "dateScheduled": "17 Jul",
+        "book": "Proverbs",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123200",
+        "dateScheduled": "18 Jul",
+        "book": "Proverbs",
+        "startChapter": "5",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123201",
+        "dateScheduled": "19 Jul",
+        "book": "Proverbs",
+        "startChapter": "9",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123202",
+        "dateScheduled": "20 Jul",
+        "book": "Proverbs",
+        "startChapter": "13",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123203",
+        "dateScheduled": "21 Jul",
+        "book": "Proverbs",
+        "startChapter": "17",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123204",
+        "dateScheduled": "22 Jul",
+        "book": "Proverbs",
+        "startChapter": "20",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123205",
+        "dateScheduled": "23 Jul",
+        "book": "Proverbs",
+        "startChapter": "23",
+        "endChapter": "27",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123206",
+        "dateScheduled": "24 Jul",
+        "book": "Proverbs",
+        "startChapter": "28",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123207",
+        "dateScheduled": "25 Jul",
+        "book": "Ecclesiastes",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123208",
+        "dateScheduled": "26 Jul",
+        "book": "Ecclesiastes",
+        "startChapter": "5",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123209",
+        "dateScheduled": "27 Jul",
+        "book": "Ecclesiastes",
+        "startChapter": "9",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123210",
+        "dateScheduled": "28 Jul",
+        "book": "Song of Solomon",
+        "startChapter": "1",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#99d0ff"
+    },
+    {
+        "id": "123211",
+        "dateScheduled": "29 Jul",
+        "book": "Isaiah",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123212",
+        "dateScheduled": "30 Jul",
+        "book": "Isaiah",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123213",
+        "dateScheduled": "31 Jul",
+        "book": "Isaiah",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123214",
+        "dateScheduled": "1 Aug",
+        "book": "Isaiah",
+        "startChapter": "11",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123215",
+        "dateScheduled": "2 Aug",
+        "book": "Isaiah",
+        "startChapter": "15",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123216",
+        "dateScheduled": "3 Aug",
+        "book": "Isaiah",
+        "startChapter": "20",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123217",
+        "dateScheduled": "4 Aug",
+        "book": "Isaiah",
+        "startChapter": "25",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123218",
+        "dateScheduled": "5 Aug",
+        "book": "Isaiah",
+        "startChapter": "29",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123219",
+        "dateScheduled": "6 Aug",
+        "book": "Isaiah",
+        "startChapter": "32",
+        "endChapter": "35",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123220",
+        "dateScheduled": "7 Aug",
+        "book": "Isaiah",
+        "startChapter": "36",
+        "endChapter": "37",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123221",
+        "dateScheduled": "8 Aug",
+        "book": "Isaiah",
+        "startChapter": "38",
+        "endChapter": "40",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123222",
+        "dateScheduled": "9 Aug",
+        "book": "Isaiah",
+        "startChapter": "41",
+        "endChapter": "43",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123223",
+        "dateScheduled": "10 Aug",
+        "book": "Isaiah",
+        "startChapter": "44",
+        "endChapter": "47",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123224",
+        "dateScheduled": "11 Aug",
+        "book": "Isaiah",
+        "startChapter": "48",
+        "endChapter": "50",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123225",
+        "dateScheduled": "12 Aug",
+        "book": "Isaiah",
+        "startChapter": "51",
+        "endChapter": "55",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123226",
+        "dateScheduled": "13 Aug",
+        "book": "Isaiah",
+        "startChapter": "56",
+        "endChapter": "58",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123227",
+        "dateScheduled": "14 Aug",
+        "book": "Isaiah",
+        "startChapter": "59",
+        "endChapter": "62",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123228",
+        "dateScheduled": "15 Aug",
+        "book": "Isaiah",
+        "startChapter": "63",
+        "endChapter": "66",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123229",
+        "dateScheduled": "16 Aug",
+        "book": "Jeremiah",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123230",
+        "dateScheduled": "17 Aug",
+        "book": "Jeremiah",
+        "startChapter": "4",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123231",
+        "dateScheduled": "18 Aug",
+        "book": "Jeremiah",
+        "startChapter": "6",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123232",
+        "dateScheduled": "19 Aug",
+        "book": "Jeremiah",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123233",
+        "dateScheduled": "20 Aug",
+        "book": "Jeremiah",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123234",
+        "dateScheduled": "21 Aug",
+        "book": "Jeremiah",
+        "startChapter": "14",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123235",
+        "dateScheduled": "22 Aug",
+        "book": "Jeremiah",
+        "startChapter": "17",
+        "endChapter": "20",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123236",
+        "dateScheduled": "23 Aug",
+        "book": "Jeremiah",
+        "startChapter": "21",
+        "endChapter": "23",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123237",
+        "dateScheduled": "24 Aug",
+        "book": "Jeremiah",
+        "startChapter": "24",
+        "endChapter": "26",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123238",
+        "dateScheduled": "25 Aug",
+        "book": "Jeremiah",
+        "startChapter": "27",
+        "endChapter": "29",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123239",
+        "dateScheduled": "26 Aug",
+        "book": "Jeremiah",
+        "startChapter": "30",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123240",
+        "dateScheduled": "27 Aug",
+        "book": "Jeremiah",
+        "startChapter": "32",
+        "endChapter": "33",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123241",
+        "dateScheduled": "28 Aug",
+        "book": "Jeremiah",
+        "startChapter": "34",
+        "endChapter": "36",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123242",
+        "dateScheduled": "29 Aug",
+        "book": "Jeremiah",
+        "startChapter": "37",
+        "endChapter": "39",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123243",
+        "dateScheduled": "30 Aug",
+        "book": "Jeremiah",
+        "startChapter": "40",
+        "endChapter": "42",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123244",
+        "dateScheduled": "31 Aug",
+        "book": "Jeremiah",
+        "startChapter": "43",
+        "endChapter": "44",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123245",
+        "dateScheduled": "1 Sep",
+        "book": "Jeremiah",
+        "startChapter": "45",
+        "endChapter": "48",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123246",
+        "dateScheduled": "2 Sep",
+        "book": "Jeremiah",
+        "startChapter": "49",
+        "endChapter": "50",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123247",
+        "dateScheduled": "3 Sep",
+        "book": "Jeremiah",
+        "startChapter": "51",
+        "endChapter": "52",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123248",
+        "dateScheduled": "4 Sep",
+        "book": "Lamentations",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123249",
+        "dateScheduled": "5 Sep",
+        "book": "Lamentations",
+        "startChapter": "3",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123250",
+        "dateScheduled": "6 Sep",
+        "book": "Ezekiel",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123251",
+        "dateScheduled": "7 Sep",
+        "book": "Ezekiel",
+        "startChapter": "4",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123252",
+        "dateScheduled": "8 Sep",
+        "book": "Ezekiel",
+        "startChapter": "7",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123253",
+        "dateScheduled": "9 Sep",
+        "book": "Ezekiel",
+        "startChapter": "10",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123254",
+        "dateScheduled": "10 Sep",
+        "book": "Ezekiel",
+        "startChapter": "13",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123255",
+        "dateScheduled": "11 Sep",
+        "book": "Ezekiel",
+        "startChapter": "16",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123256",
+        "dateScheduled": "12 Sep",
+        "book": "Ezekiel",
+        "startChapter": "17",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123257",
+        "dateScheduled": "13 Sep",
+        "book": "Ezekiel",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123258",
+        "dateScheduled": "14 Sep",
+        "book": "Ezekiel",
+        "startChapter": "22",
+        "endChapter": "23",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123259",
+        "dateScheduled": "15 Sep",
+        "book": "Ezekiel",
+        "startChapter": "24",
+        "endChapter": "26",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123260",
+        "dateScheduled": "16 Sep",
+        "book": "Ezekiel",
+        "startChapter": "27",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123261",
+        "dateScheduled": "17 Sep",
+        "book": "Ezekiel",
+        "startChapter": "29",
+        "endChapter": "31",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123262",
+        "dateScheduled": "18 Sep",
+        "book": "Ezekiel",
+        "startChapter": "32",
+        "endChapter": "33",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123263",
+        "dateScheduled": "19 Sep",
+        "book": "Ezekiel",
+        "startChapter": "34",
+        "endChapter": "36",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123264",
+        "dateScheduled": "20 Sep",
+        "book": "Ezekiel",
+        "startChapter": "37",
+        "endChapter": "38",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123265",
+        "dateScheduled": "21 Sep",
+        "book": "Ezekiel",
+        "startChapter": "39",
+        "endChapter": "40",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123266",
+        "dateScheduled": "22 Sep",
+        "book": "Ezekiel",
+        "startChapter": "41",
+        "endChapter": "43",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123267",
+        "dateScheduled": "23 Sep",
+        "book": "Ezekiel",
+        "startChapter": "44",
+        "endChapter": "45",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123268",
+        "dateScheduled": "24 Sep",
+        "book": "Ezekiel",
+        "startChapter": "46",
+        "endChapter": "48",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123269",
+        "dateScheduled": "25 Sep",
+        "book": "Daniel",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123270",
+        "dateScheduled": "26 Sep",
+        "book": "Daniel",
+        "startChapter": "3",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123271",
+        "dateScheduled": "27 Sep",
+        "book": "Daniel",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123272",
+        "dateScheduled": "28 Sep",
+        "book": "Daniel",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123273",
+        "dateScheduled": "29 Sep",
+        "book": "Daniel",
+        "startChapter": "11",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123274",
+        "dateScheduled": "30 Sep",
+        "book": "Hosea",
+        "startChapter": "1",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123275",
+        "dateScheduled": "1 Oct",
+        "book": "Hosea",
+        "startChapter": "8",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123276",
+        "dateScheduled": "2 Oct",
+        "book": "Joel",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123277",
+        "dateScheduled": "3 Oct",
+        "book": "Amos",
+        "startChapter": "1",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123278",
+        "dateScheduled": "4 Oct",
+        "book": "Amos",
+        "startChapter": "6",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123279",
+        "dateScheduled": "5 Oct",
+        "book": "Obadiah/Jonah",
+        "startChapter": "",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123280",
+        "dateScheduled": "6 Oct",
+        "book": "Micah",
+        "startChapter": "1",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123281",
+        "dateScheduled": "7 Oct",
+        "book": "Nahum/Habakkuk",
+        "startChapter": "",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123282",
+        "dateScheduled": "8 Oct",
+        "book": "Zephaniah/Haggai",
+        "startChapter": "",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123283",
+        "dateScheduled": "9 Oct",
+        "book": "Zechariah",
+        "startChapter": "1",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123284",
+        "dateScheduled": "10 Oct",
+        "book": "Zechariah",
+        "startChapter": "8",
+        "endChapter": "11",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123285",
+        "dateScheduled": "11 Oct",
+        "book": "Zechariah",
+        "startChapter": "12",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123286",
+        "dateScheduled": "12 Oct",
+        "book": "Malachi",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffbbbb"
+    },
+    {
+        "id": "123287",
+        "dateScheduled": "13 Oct",
+        "book": "Matthew",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123288",
+        "dateScheduled": "14 Oct",
+        "book": "Matthew",
+        "startChapter": "5",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123289",
+        "dateScheduled": "15 Oct",
+        "book": "Matthew",
+        "startChapter": "8",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123290",
+        "dateScheduled": "16 Oct",
+        "book": "Matthew",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123291",
+        "dateScheduled": "17 Oct",
+        "book": "Matthew",
+        "startChapter": "14",
+        "endChapter": "17",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123292",
+        "dateScheduled": "18 Oct",
+        "book": "Matthew",
+        "startChapter": "18",
+        "endChapter": "20",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123293",
+        "dateScheduled": "19 Oct",
+        "book": "Matthew",
+        "startChapter": "21",
+        "endChapter": "23",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123294",
+        "dateScheduled": "20 Oct",
+        "book": "Matthew",
+        "startChapter": "24",
+        "endChapter": "25",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123295",
+        "dateScheduled": "21 Oct",
+        "book": "Matthew",
+        "startChapter": "26",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123296",
+        "dateScheduled": "22 Oct",
+        "book": "Matthew",
+        "startChapter": "27",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123297",
+        "dateScheduled": "23 Oct",
+        "book": "Mark",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123298",
+        "dateScheduled": "24 Oct",
+        "book": "Mark",
+        "startChapter": "4",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123299",
+        "dateScheduled": "25 Oct",
+        "book": "Mark",
+        "startChapter": "6",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123300",
+        "dateScheduled": "26 Oct",
+        "book": "Mark",
+        "startChapter": "9",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123301",
+        "dateScheduled": "27 Oct",
+        "book": "Mark",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123302",
+        "dateScheduled": "28 Oct",
+        "book": "Mark",
+        "startChapter": "14",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123303",
+        "dateScheduled": "29 Oct",
+        "book": "Luke",
+        "startChapter": "1",
+        "endChapter": "2",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123304",
+        "dateScheduled": "30 Oct",
+        "book": "Luke",
+        "startChapter": "3",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123305",
+        "dateScheduled": "31 Oct",
+        "book": "Luke",
+        "startChapter": "6",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123306",
+        "dateScheduled": "1 Nov",
+        "book": "Luke",
+        "startChapter": "8",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123307",
+        "dateScheduled": "2 Nov",
+        "book": "Luke",
+        "startChapter": "10",
+        "endChapter": "11",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123308",
+        "dateScheduled": "3 Nov",
+        "book": "Luke",
+        "startChapter": "12",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123309",
+        "dateScheduled": "4 Nov",
+        "book": "Luke",
+        "startChapter": "14",
+        "endChapter": "17",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123310",
+        "dateScheduled": "5 Nov",
+        "book": "Luke",
+        "startChapter": "18",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123311",
+        "dateScheduled": "6 Nov",
+        "book": "Luke",
+        "startChapter": "20",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123312",
+        "dateScheduled": "7 Nov",
+        "book": "Luke",
+        "startChapter": "23",
+        "endChapter": "24",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123313",
+        "dateScheduled": "8 Nov",
+        "book": "John",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123314",
+        "dateScheduled": "9 Nov",
+        "book": "John",
+        "startChapter": "4",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123315",
+        "dateScheduled": "10 Nov",
+        "book": "John",
+        "startChapter": "6",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123316",
+        "dateScheduled": "11 Nov",
+        "book": "John",
+        "startChapter": "8",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123317",
+        "dateScheduled": "12 Nov",
+        "book": "John",
+        "startChapter": "10",
+        "endChapter": "12",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123318",
+        "dateScheduled": "13 Nov",
+        "book": "John",
+        "startChapter": "13",
+        "endChapter": "15",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123319",
+        "dateScheduled": "14 Nov",
+        "book": "John",
+        "startChapter": "16",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123320",
+        "dateScheduled": "15 Nov",
+        "book": "John",
+        "startChapter": "19",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#ffdd99"
+    },
+    {
+        "id": "123321",
+        "dateScheduled": "16 Nov",
+        "book": "Acts",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123322",
+        "dateScheduled": "17 Nov",
+        "book": "Acts",
+        "startChapter": "4",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123323",
+        "dateScheduled": "18 Nov",
+        "book": "Acts",
+        "startChapter": "7",
+        "endChapter": "8",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123324",
+        "dateScheduled": "19 Nov",
+        "book": "Acts",
+        "startChapter": "9",
+        "endChapter": "11",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123325",
+        "dateScheduled": "20 Nov",
+        "book": "Acts",
+        "startChapter": "12",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123326",
+        "dateScheduled": "21 Nov",
+        "book": "Acts",
+        "startChapter": "15",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123327",
+        "dateScheduled": "22 Nov",
+        "book": "Acts",
+        "startChapter": "17",
+        "endChapter": "19",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123328",
+        "dateScheduled": "23 Nov",
+        "book": "Acts",
+        "startChapter": "20",
+        "endChapter": "21",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123329",
+        "dateScheduled": "24 Nov",
+        "book": "Acts",
+        "startChapter": "22",
+        "endChapter": "23",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123330",
+        "dateScheduled": "25 Nov",
+        "book": "Acts",
+        "startChapter": "24",
+        "endChapter": "26",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123331",
+        "dateScheduled": "26 Nov",
+        "book": "Acts",
+        "startChapter": "27",
+        "endChapter": "28",
+        "dateCompleted": "",
+        "color": "#cceeff"
+    },
+    {
+        "id": "123332",
+        "dateScheduled": "27 Nov",
+        "book": "Romans",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123333",
+        "dateScheduled": "28 Nov",
+        "book": "Romans",
+        "startChapter": "4",
+        "endChapter": "7",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123334",
+        "dateScheduled": "29 Nov",
+        "book": "Romans",
+        "startChapter": "8",
+        "endChapter": "11",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123335",
+        "dateScheduled": "30 Nov",
+        "book": "Romans",
+        "startChapter": "12",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123336",
+        "dateScheduled": "1 Dec",
+        "book": "1 Corinthians",
+        "startChapter": "1",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123337",
+        "dateScheduled": "2 Dec",
+        "book": "1 Corinthians",
+        "startChapter": "7",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123338",
+        "dateScheduled": "3 Dec",
+        "book": "1 Corinthians",
+        "startChapter": "11",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123339",
+        "dateScheduled": "4 Dec",
+        "book": "1 Corinthians",
+        "startChapter": "15",
+        "endChapter": "16",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123340",
+        "dateScheduled": "5 Dec",
+        "book": "2 Corinthians",
+        "startChapter": "1",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123341",
+        "dateScheduled": "6 Dec",
+        "book": "2 Corinthians",
+        "startChapter": "7",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123342",
+        "dateScheduled": "7 Dec",
+        "book": "2 Corinthians",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123343",
+        "dateScheduled": "8 Dec",
+        "book": "Galatians",
+        "startChapter": "1",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123344",
+        "dateScheduled": "9 Dec",
+        "book": "Ephesians",
+        "startChapter": "1",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123345",
+        "dateScheduled": "10 Dec",
+        "book": "Philippians",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123346",
+        "dateScheduled": "11 Dec",
+        "book": "Colossians",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123347",
+        "dateScheduled": "12 Dec",
+        "book": "1 Thessalonians",
+        "startChapter": "1",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123348",
+        "dateScheduled": "13 Dec",
+        "book": "2 Thessalonians",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123349",
+        "dateScheduled": "14 Dec",
+        "book": "1 Timothy",
+        "startChapter": "1",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123350",
+        "dateScheduled": "15 Dec",
+        "book": "2 Timothy",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123351",
+        "dateScheduled": "16 Dec",
+        "book": "Titus/Philemon",
+        "startChapter": "",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123352",
+        "dateScheduled": "17 Dec",
+        "book": "Hebrews",
+        "startChapter": "1",
+        "endChapter": "6",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123353",
+        "dateScheduled": "18 Dec",
+        "book": "Hebrews",
+        "startChapter": "7",
+        "endChapter": "10",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123354",
+        "dateScheduled": "19 Dec",
+        "book": "Hebrews",
+        "startChapter": "11",
+        "endChapter": "13",
+        "dateCompleted": "",
+        "color": "#ffddee"
+    },
+    {
+        "id": "123355",
+        "dateScheduled": "20 Dec",
+        "book": "James",
+        "startChapter": "1",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123356",
+        "dateScheduled": "21 Dec",
+        "book": "1 Peter",
+        "startChapter": "1",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123357",
+        "dateScheduled": "22 Dec",
+        "book": "2 Peter",
+        "startChapter": "1",
+        "endChapter": "3",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123358",
+        "dateScheduled": "23 Dec",
+        "book": "1 John",
+        "startChapter": "1",
+        "endChapter": "5",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123359",
+        "dateScheduled": "24 Dec",
+        "book": "2 John/3 John/Jude",
+        "startChapter": "",
+        "endChapter": "",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123360",
+        "dateScheduled": "25 Dec",
+        "book": "Revelation",
+        "startChapter": "1",
+        "endChapter": "4",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123361",
+        "dateScheduled": "26 Dec",
+        "book": "Revelation",
+        "startChapter": "5",
+        "endChapter": "9",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123362",
+        "dateScheduled": "27 Dec",
+        "book": "Revelation",
+        "startChapter": "10",
+        "endChapter": "14",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123363",
+        "dateScheduled": "28 Dec",
+        "book": "Revelation",
+        "startChapter": "15",
+        "endChapter": "18",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    },
+    {
+        "id": "123364",
+        "dateScheduled": "29 Dec",
+        "book": "Revelation",
+        "startChapter": "19",
+        "endChapter": "22",
+        "dateCompleted": "",
+        "color": "#ddbbbb"
+    }
+]

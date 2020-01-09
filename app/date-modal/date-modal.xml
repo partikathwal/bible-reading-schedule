@@ -1,0 +1,9 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" shownModally="onShow">
+    <StackLayout>
+        <DatePicker year="{{year}}" month="{{month}}" day="{{day}}" />
+        <FlexboxLayout justifyContent="flex-end" style="margin: 0;">
+            <Button tap="onUpdate" text="UPDATE" class="-primary" style="margin: 0;"/>
+            <Button tap="onCancel" text="CANCEL" style="margin: 0;" />
+        </FlexboxLayout>
+    </StackLayout>
+</Page>
